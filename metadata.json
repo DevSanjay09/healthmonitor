@@ -1,0 +1,5 @@
+{
+  "name": "Smart Health Wearable Simulation",
+  "description": "A real-time health monitoring simulation platform with 3D hardware visualization, live biometric tracking, and Gemini AI health insights.",
+  "requestFramePermissions": []
+}
